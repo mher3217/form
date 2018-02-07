@@ -1,0 +1,30 @@
+input[type=text] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	color: white;
+}
+#name_1{
+	background-color: #3CBC8D;
+}
+#name_2{
+	background-color: red;
+}
+#name_3{
+	background-color: green;
+}
+#name_4{
+	background-color: orange;
+}
+#name_5{
+	background-color: yellow;
+}
+#name_6{
+	background-color: blue;
+}
+#name_7{
+	background-color: purple;
+}
+	
